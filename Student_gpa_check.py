@@ -1,4 +1,4 @@
-# Name: [Your Name]
+# Name: Johabi Calas
 # File Name: student_gpa_check.py
 # Description: This app accepts student names and GPAs, checks if they qualify for 
 #              the Dean's List (GPA >= 3.5) or the Honor Roll (GPA >= 3.25), and displays 
